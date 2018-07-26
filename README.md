@@ -1,1 +1,3 @@
-# neural_networks
+# neural-networks
+keras
+tensorflow
