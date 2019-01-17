@@ -1,0 +1,1 @@
+For diy projects like character recognition
