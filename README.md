@@ -5,3 +5,4 @@ tensorflow
 nltk
 
 stylize
+animations
