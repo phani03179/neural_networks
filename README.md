@@ -10,5 +10,9 @@ animations
 intervention
 
 story understanding 
+
 Ending alternative 
+
 generic cultural understanding 
+
+Associating demeanour
