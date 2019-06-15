@@ -16,3 +16,5 @@ Ending alternative
 generic cultural understanding 
 
 Associating demeanour
+
+Future interaction visualisation 
