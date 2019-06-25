@@ -20,3 +20,5 @@ Associating demeanour
 Future interaction visualisation 
 
 Positional variance
+
+Schematic sound variance
