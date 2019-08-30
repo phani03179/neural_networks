@@ -24,3 +24,5 @@ Positional variance
 Schematic sound variance
 
 Complex query response
+
+Color RoI change
