@@ -28,3 +28,5 @@ Complex query response
 Color RoI change
 
 Imaging and inference
+
+Physical characteristics due to movement
