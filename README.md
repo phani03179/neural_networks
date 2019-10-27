@@ -30,3 +30,5 @@ Color RoI change
 Imaging and inference
 
 Physical characteristics due to movement
+
+Dual emotion recognition 
