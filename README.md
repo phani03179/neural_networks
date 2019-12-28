@@ -32,3 +32,5 @@ Imaging and inference
 Physical characteristics due to movement
 
 Dual emotion recognition 
+
+Next locomotion prediction 
