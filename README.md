@@ -15,6 +15,8 @@ Ending alternative
 
 generic cultural understanding 
 
+Conditional ai action ifft
+
 Associating demeanour
 
 Future interaction visualisation 
