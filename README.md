@@ -38,3 +38,5 @@ Dual emotion recognition
 Next locomotion prediction 
 
 Understanding picture overlay
+
+Topic modelling
