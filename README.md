@@ -40,3 +40,5 @@ Next locomotion prediction
 Understanding picture overlay
 
 Topic modelling
+
+Rapid GAN
