@@ -42,3 +42,5 @@ Understanding picture overlay
 Topic modelling
 
 Rapid GAN
+
+People GANs
