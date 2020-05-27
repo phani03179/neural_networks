@@ -44,3 +44,5 @@ Topic modelling
 Rapid GAN
 
 People GANs
+
+Ai synthesis 
