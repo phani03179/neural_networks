@@ -46,3 +46,5 @@ Rapid GAN
 People GANs
 
 Ai synthesis 
+
+Mini batch sgd 
