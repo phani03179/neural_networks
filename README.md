@@ -48,3 +48,5 @@ People GANs
 Ai synthesis 
 
 Mini batch sgd 
+
+Transformer blocks
