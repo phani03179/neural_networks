@@ -50,3 +50,5 @@ Ai synthesis
 Mini batch sgd 
 
 Transformer blocks
+
+Lstm application 
