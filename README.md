@@ -52,3 +52,5 @@ Mini batch sgd
 Transformer blocks
 
 Lstm application 
+
+Colorizing objects
