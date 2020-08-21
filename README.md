@@ -54,3 +54,5 @@ Transformer blocks
 Lstm application 
 
 Colorizing objects
+
+Pose detection 
