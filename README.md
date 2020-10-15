@@ -56,3 +56,5 @@ Lstm application
 Colorizing objects
 
 Pose detection 
+
+Cross neural learning 
