@@ -58,3 +58,5 @@ Colorizing objects
 Pose detection 
 
 Cross neural learning 
+
+Cycle Gan for low volume 
