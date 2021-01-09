@@ -60,3 +60,5 @@ Pose detection
 Cross neural learning 
 
 Cycle Gan for low volume 
+
+Preparing nerfies
